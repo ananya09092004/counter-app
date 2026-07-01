@@ -1,0 +1,15 @@
+{
+  "name": "simple-counter-app",
+  "version": "1.0.0",
+  "description": "A simple counter application built with HTML, CSS, and JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html",
+    "build": "echo 'No build process required for this project'"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "none": "No dependencies required for this project"
+  }
+}
